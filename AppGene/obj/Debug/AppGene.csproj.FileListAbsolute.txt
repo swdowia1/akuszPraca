@@ -1,0 +1,9 @@
+C:\dyskD\projekt\ArkuaszPraca\AppGene\bin\Debug\AppGene.exe.config
+C:\dyskD\projekt\ArkuaszPraca\AppGene\bin\Debug\AppGene.exe
+C:\dyskD\projekt\ArkuaszPraca\AppGene\bin\Debug\AppGene.pdb
+C:\dyskD\projekt\ArkuaszPraca\AppGene\obj\Debug\AppGene.csproj.AssemblyReference.cache
+C:\dyskD\projekt\ArkuaszPraca\AppGene\obj\Debug\AppGene.Properties.Resources.resources
+C:\dyskD\projekt\ArkuaszPraca\AppGene\obj\Debug\AppGene.csproj.GenerateResource.cache
+C:\dyskD\projekt\ArkuaszPraca\AppGene\obj\Debug\AppGene.csproj.CoreCompileInputs.cache
+C:\dyskD\projekt\ArkuaszPraca\AppGene\obj\Debug\AppGene.exe
+C:\dyskD\projekt\ArkuaszPraca\AppGene\obj\Debug\AppGene.pdb

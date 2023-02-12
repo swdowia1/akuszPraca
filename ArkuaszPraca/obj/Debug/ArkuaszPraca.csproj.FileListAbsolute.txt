@@ -1,0 +1,9 @@
+C:\dyskD\projekt\ArkuaszPraca\ArkuaszPraca\bin\Debug\ArkuaszPraca.exe.config
+C:\dyskD\projekt\ArkuaszPraca\ArkuaszPraca\bin\Debug\ArkuaszPraca.exe
+C:\dyskD\projekt\ArkuaszPraca\ArkuaszPraca\bin\Debug\ArkuaszPraca.pdb
+C:\dyskD\projekt\ArkuaszPraca\ArkuaszPraca\obj\Debug\ArkuaszPraca.csproj.CoreCompileInputs.cache
+C:\dyskD\projekt\ArkuaszPraca\ArkuaszPraca\obj\Debug\ArkuaszPraca.exe
+C:\dyskD\projekt\ArkuaszPraca\ArkuaszPraca\obj\Debug\ArkuaszPraca.pdb
+C:\dyskD\projekt\ArkuaszPraca\ArkuaszPraca\bin\Debug\EPPlus.dll
+C:\dyskD\projekt\ArkuaszPraca\ArkuaszPraca\bin\Debug\EPPlus.xml
+C:\dyskD\projekt\ArkuaszPraca\ArkuaszPraca\obj\Debug\ArkuaszPraca.csproj.CopyComplete
